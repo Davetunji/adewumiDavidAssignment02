@@ -46,7 +46,7 @@ assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
- * 
+ *    
  * Given an array of numbers representing temperatures in Celsius,
  * convert each number to Fahrenheit and return a new array containing the converted
  * temperatures in Fahrenheit. Decimal figures in the converted values in Fahrenheit should be removed.
